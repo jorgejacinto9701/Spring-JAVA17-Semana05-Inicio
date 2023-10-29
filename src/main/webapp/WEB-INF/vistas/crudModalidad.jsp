@@ -39,7 +39,7 @@
 									<table id="id_table" class="table table-striped table-bordered" >
 										<thead>
 											<tr>
-												<th style="width: 5%" >ID</th>
+												<th style="width: 5%" >Código</th>
 												<th style="width: 25%">Nombre</th>
 												<th style="width: 8%">#Hombres</th>
 												<th style="width: 8%">#Mujeres</th>
